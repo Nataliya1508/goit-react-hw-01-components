@@ -3,7 +3,7 @@
   padding: 0;
 }
 .profile {
-  background-color: rgb(197, 233, 238);
+  background-color: #eef3f8;
   color: black;
   display: block;
   margin: 20px auto;
@@ -11,7 +11,6 @@
   height: auto;
   border-radius: 5px;
   border: 1px solid #6b0808;
-  /* overflow: hidden; */
   box-shadow: 0 1px 3px #f8f6f6da, 0 5px 5px #0000004d;
 }
 
