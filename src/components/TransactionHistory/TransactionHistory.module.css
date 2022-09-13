@@ -1,0 +1,32 @@
+.transactionHistory {
+  margin: 20px;
+  width: 500px;
+  /* border-radius: 10px; */
+  margin: 35px auto;
+  border: 1px solid rgb(177, 175, 173);
+}
+
+.transactionHistory thead {
+  text-transform: uppercase;
+  text-align: center;
+  background-color: rgb(102, 111, 243);
+  border-radius: 50px;
+  height: 30px;
+  color: white;
+}
+
+.transactionHistory tbody {
+  text-align: center;
+}
+
+.transactionHistory tbody tr {
+  height: 25px;
+}
+
+.transactionHistory tbody tr td {
+  text-transform: capitalize;
+}
+
+.transactionHistory tbody tr:nth-child(odd) {
+  background-color: rgba(172, 167, 167, 0.2);
+}
